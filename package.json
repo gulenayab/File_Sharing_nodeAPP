@@ -8,7 +8,7 @@
     "devStart": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Gul-e-Nayab",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.3.1",
